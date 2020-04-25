@@ -1,0 +1,12 @@
+{
+    "files.associations": {
+        "math.h": "c",
+        "mzapo_parlcd.h": "c",
+        "stdlib.h": "c",
+        "stdint.h": "c",
+        "scenario_zoom1x.h": "c",
+        "lcdframe.h": "c",
+        "mzapo_phys.h": "c"
+    },
+    "C_Cpp.errorSquiggles": "Disabled"
+}
