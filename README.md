@@ -1,4 +1,5 @@
-# Embedded system with ARM architecture. The Control of Two Reflectors.
+# Embedded system with ARM architecture. 
+## The Control of Two Reflectors.
 
 The program for MZAPO board that controls two RGB reflectors.
 
