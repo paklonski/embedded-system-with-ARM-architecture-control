@@ -4,6 +4,12 @@ The program for MZAPO board that controls two RGB reflectors.
 
 A pair of RGB LEDs, named as LED1 and LED2 on PCB, are shown in the bottom quarter and represent both reflectors. Enter input parameters using the three rotary knobs marked ENCODER1, ENCODER2, and ENCODER3 on the PCB.
 
+
+
+![alt text](https://cw.fel.cvut.cz/b182/_media/courses/b35apo/en/tutorials/10/mzapo.png)
+
+
+
 The **User Manual** you will find in the package 'user_manual'.   
 
 **NECESSARY FUNCTIONS**
