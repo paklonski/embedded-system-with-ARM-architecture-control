@@ -10,7 +10,9 @@ A pair of RGB LEDs, named as LED1 and LED2 on PCB, are shown in the bottom quart
 
 
 
-The **User Manual** you will find in the package 'user_manual'.   
+The **User Manual** you will find in the package 'user_manual'.        
+
+-------------------        
 
 **NECESSARY FUNCTIONS**
 
