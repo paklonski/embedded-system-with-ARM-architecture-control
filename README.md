@@ -4,7 +4,7 @@ The program for MZAPO board that controls two RGB reflectors.
 
 A pair of RGB LEDs, named as LED1 and LED2 on PCB, are shown in the bottom quarter and represent both reflectors. Enter input parameters using the three rotary knobs marked ENCODER1, ENCODER2, and ENCODER3 on the PCB.
 
-The User Manual you will find in the package 'user_manual'.   
+The **User Manual** you will find in the package 'user_manual'.   
 
 **NECESSARY FUNCTIONS**
 
@@ -50,8 +50,8 @@ A more detailed description of the design registers can be found in documentatio
 
 **Main.c** - include the control of the whole program        
 **Externals.c** - include global variables used by project functions menu_creator.c - include functions that draw menu sections depending on the selected scale        
-**Set_continuous_change.c** - include functions created when starting up the glow of lamps. Presented as threads that stop if the user chooses STOP ALL on the menu screen. 
-**Set_flashing.c** - include functions that turn off and turn on the necessary lamps for a user-defined period of time. Presented in the form of threads, which the user independently stops by clicking on STOP ALL in the selection menu        
+**Set_continuous_change.c** - include functions created when starting up the glow of lamps. Presented as threads that stop if the user chooses STOP ALL on the menu screen.          
+**Set_flashing.c** - include functions that turn off and turn on the necessary lamps for a user-defined period of time. Presented in the form of threads, which the user independently stops by clicking on STOP ALL in the selection menu.               
 **Set_static_zoom1x.c** - include functions that perform static glow adjustment with text menu adjustment for 1x scale        
 **Set_static_zoom2x.c** - includes functions that perform static glow adjustment with text menu adjustment for 2x scale        
 **Set_time.c** - include functions that adjust the time intervals required during the program, as well as adjust the display value on the screen depending on the selected scale        
